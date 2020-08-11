@@ -2,11 +2,27 @@ h1 {
     background-color: turquoise;
 }
 #title {
+    color: rgb(169, 71, 240);
+}
+h2 {
+    background-color: turquoise;
     color: coral;
 }
-.text-green {
-    color: lightgreen;
-}
 li {
-    color: rgb(235, 63, 137);
+    font-weight: bold;
+    font-size: 22px;
+}
+.facts {
+    background-color: turquoise;
+    color: rgb(169, 71, 240);
+}
+.caption {
+    background-color: turquoise;
+    color: coral;
+}
+.image {
+    background-color: rgb(142, 238, 228);
+}
+img {
+    height: 300px;
 }
